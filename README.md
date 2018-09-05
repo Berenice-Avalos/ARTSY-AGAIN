@@ -22,7 +22,7 @@
  <body>
  
  <p strong>I DID IT</strong></p>
-    </p> <strong>I MADE MY FIRTS WEBSITE</strong><p></p>
+    </p> <strong>I MADE MY FIRTS WEBSITE</strong><p>
          <strong> YES!!!!!</strong>
  
  </body>
