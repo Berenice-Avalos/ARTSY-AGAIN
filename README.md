@@ -21,8 +21,8 @@
  <html>
  <body>
  
- <p strong><font color="927AD8">I DID IT</p>
-  <strong>I MADE MY FIRTS WEBSITE<p>
+ <p strong><font color="927AD8">I DID IT
+  <p><strong>I MADE MY FIRTS WEBSITE
          <strong> YES!!!!!</strong>
  
 
