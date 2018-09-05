@@ -25,9 +25,7 @@
   <strong>I MADE MY FIRTS WEBSITE<p>
          <strong> YES!!!!!</strong>
  
- </body>
- </html>
-</div>
+
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
    <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
