@@ -6,7 +6,7 @@
        </head>
        <body>
            <h1>
-             <font color="265EB9"><strong>This is easy and fun!</strong>
+             <font color="265EB9"><strong>This is easy and fun!
            <h1>
           <img class="irc_mi" src="https://media.istockphoto.com/photos/fairy-tree-in-mystic-forest-picture-id502735520?k=6&amp;m=502735520&amp;s=612x612&amp;w=0&amp;h=kMaZWd25caV3bKU3kHnFhRoRXhcxjiChw6nhYCTLktI=" alt="Image result for fantasy images" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)">
     
@@ -19,7 +19,7 @@
 <body>
 <p><font color="927AD8" strong>I DID IT
   <p><font color="927AD8" strong>I MADE MY FIRTS WEBSITE</font></p>
-  <p><font color="927AD8"><strong> YES!!!!!</strong>
+  <p><font color="927AD8"><strong> YES!!!!!
 
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
