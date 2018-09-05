@@ -29,5 +29,5 @@
 </div>
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
-   <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a>
+   <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
     
