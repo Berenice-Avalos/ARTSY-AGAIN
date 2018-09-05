@@ -28,6 +28,6 @@
 </html>
 </div>
 <div class="topnav"></div>
-    <a href="https://berenice-avalos.github.io/CrazyFantasy/">Crazyfantasy</p>
-    <a href="https://berenice-avalos.github.io/CyberPunk/">Cyberpunk</p>
+    "https://berenice-avalos.github.io/CrazyFantasy/"
+    "https://berenice-avalos.github.io/CyberPunk/"
     </div>
