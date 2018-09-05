@@ -18,13 +18,10 @@
 
 <html>
 <body>
-<p><font color="927AD8" strong>I DID IT</p>
+<p><font color="927AD8" strong>I DID IT
   <p><font color="927AD8" strong>I MADE MY FIRTS WEBSITE</font></p>
-  <p><font color="927AD8"><strong> YES!!!!!</strong></p>
+  <p><font color="927AD8"><strong> YES!!!!!</strong>
 
-</body>
-</html>
-</div>
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
    <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
