@@ -19,8 +19,8 @@
 <html>
 <body>
 <p><font color="927AD8" strong>I DID IT</p>
-  <font color="927AD8" strong>I MADE MY FIRTS WEBSITE</font><p></p>
-     <font color="927AD8" strong> YES!!!!!</strong>
+  <p><font color="927AD8" strong>I MADE MY FIRTS WEBSITE</font></p>
+  <p><font color="927AD8"><strong> YES!!!!!</strong></p>
 
 </body>
 </html>
