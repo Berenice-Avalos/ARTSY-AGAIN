@@ -17,9 +17,9 @@
 
 <html>
 <body>
-<p><font color="927AD8" strong>I DID IT
-  <p><font color="927AD8" strong>I MADE MY FIRTS WEBSITE</font></p>
-  <p><font color="927AD8"><strong> YES!!!!!
+<p><font color="927AD8">I DID IT
+  <p><font color="927AD8">I MADE MY FIRTS WEBSITE</font></p>
+  <p><font color="927AD8">YES!!!!!
 
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
