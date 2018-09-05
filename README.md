@@ -28,6 +28,6 @@
 </html>
 </div>
 <div class="topnav"></div>
-    <a target="_blank" href="https://crazyfantasy-bereniceavalos.c9users.io/welcome.html">Crazyfantasy</p>
-    <a target="_blank" href="https://cyberpunk-bereniceavalos.c9users.io/welcome.html">Cyberpunk</p>
+    <a target="_blank" href="https://berenice-avalos.github.io/CrazyFantasy/">Crazyfantasy</p>
+    <a target="_blank" href="https://berenice-avalos.github.io/CyberPunk/">Cyberpunk</p>
     </div>
