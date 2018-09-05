@@ -19,7 +19,7 @@
 <html>
 <body>
 <p strong>I DID IT</p>
-  <strong>I MADE MY FIRTS WEBSITE</strong><p></p>
+  <color="blue" strong>I MADE MY FIRTS WEBSITE</strong><p></p>
         <strong> YES!!!!!</strong>
 
 </body>
