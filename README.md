@@ -17,13 +17,11 @@
  <body background="http://www.kinyu-z.net/data/wallpapers/42/848087.jpg">
  </body>
  </html>
-
- <html>
- <body>
- 
+ <h1>
  <p><strong><font color="927AD8">I DID IT
   <p><strong>I MADE MY FIRST WEBSITE
-         <p><strong> YES!!!!!</strong>
+     <p><strong> YES!!!!!</strong>
+ <h1>
  
 
 <div class="topnav"></div>
