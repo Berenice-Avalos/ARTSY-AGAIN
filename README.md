@@ -23,7 +23,7 @@
  
  <p strong><font color="927AD8">I DID IT
   <p><strong>I MADE MY FIRTS WEBSITE
-         <strong> YES!!!!!</strong>
+         <p><strong> YES!!!!!</strong>
  
 
 <div class="topnav"></div>
