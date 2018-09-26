@@ -25,6 +25,6 @@
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
    <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
-   <a href="https://scratch.mit.edu/projects/248009015/" target ="_blank">Galaxy Breakout 2.0</a>
+   <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    
     
