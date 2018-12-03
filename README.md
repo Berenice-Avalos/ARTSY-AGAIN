@@ -22,11 +22,6 @@
   <body>
  
     <font color="#ff6699">
-    
-     <h1>
-     
-    </h1>
-    <h2>
 
  <p><strong>I DID IT
   <p><strong>I MADE MY FIRST WEBSITE
