@@ -16,7 +16,7 @@
  </html>
  
 
- <p><strong><color:rgba(255,0,0,0.5);">I DID IT
+ <p><strong>font=<color:rgba(255,0,0,0.5);">I DID IT
   <p><strong>I MADE MY FIRST WEBSITE
      <p><strong> YES!!!!!</strong>
 
