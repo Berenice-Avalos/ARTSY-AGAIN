@@ -21,7 +21,7 @@
      <p><strong> YES!!!!!</strong>
 
  
-
+<p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
    <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
