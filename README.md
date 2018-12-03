@@ -16,14 +16,13 @@
  </html>
  
 
- <p><strong><font color="927AD8">I DID IT
+ <p><strong><color:rgba(255,0,0,0.5);">I DID IT
   <p><strong>I MADE MY FIRST WEBSITE
      <p><strong> YES!!!!!</strong>
 
  
 
 <div class="topnav"></div>
-<font color="red|#ff0000|rgb(255,0,0)">
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
    <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
