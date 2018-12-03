@@ -23,6 +23,9 @@
  
 
 <div class="topnav"></div>
+<body>
+  <p style="color:#FF0000";>Red paragraph text</p>
+</body>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
    <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
