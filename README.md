@@ -37,5 +37,5 @@
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
    <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
-    <a href="images/Spider-Verse.pdf" target ="_blank">Computer Science Project 2</a>
+    <a href="file:///C:/Users/Berenice/Downloads/Spider%20Man%20%20(1).pdf" target ="_blank">Computer Science Project 2</a>
    
