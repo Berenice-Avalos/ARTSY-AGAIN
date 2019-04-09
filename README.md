@@ -14,9 +14,7 @@
  <html>
  <body background="http://www.kinyu-z.net/data/wallpapers/42/848087.jpg">
  </body>
- </html>
  
- </style>
  
   </head>
   
@@ -30,7 +28,6 @@
      <p><strong> YES!!!!!</strong>
       
 
-</html>
 
 <div class="topnav"></div>
    <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
