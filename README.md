@@ -96,27 +96,20 @@ body {font-family: Arial;}
 <p>Click on the x button in the top right corner to close the current tab:</p>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'Computer Science Project 1')" id="defaultOpen">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Computer Science Project 2')">Paris</button>
 </div>
 
-<div id="London" class="tabcontent">
-  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+<div id="Computer Science Project 1" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3>London</h3>
   <p>London is the capital city of England.</p>
 </div>
 
-<div id="Paris" class="tabcontent">
-  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
+<div id="Compter Science Project 2" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3>Paris</h3>
   <p>Paris is the capital of France.</p> 
-</div>
-
-<div id="Tokyo" class="tabcontent">
-  <span onclick="this.parentElement.style.display='none'" class="topright">&times</span>
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
 </div>
 
 <script>
