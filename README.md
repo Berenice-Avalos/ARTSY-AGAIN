@@ -38,56 +38,36 @@
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
    <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
-
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <link rel="import" href="elements/viewer-error-screen/viewer-error-screen.html">
-  <link rel="import" href="elements/viewer-page-indicator/viewer-page-indicator.html">
-  <link rel="import" href="elements/viewer-page-selector/viewer-page-selector.html">
-  <link rel="import" href="elements/viewer-password-screen/viewer-password-screen.html">
-  <link rel="import" href="elements/viewer-pdf-toolbar/viewer-pdf-toolbar.html">
-  <link rel="import" href="elements/viewer-zoom-toolbar/viewer-zoom-toolbar.html">
-  <link rel="import" href="elements/shared-vars.html">
+  <title>Render</title>
+  <meta name="referrer" content="never">
+    <script src="/assets/pdf-effea309c8062425128dcb7301755141.js"></script><link rel="stylesheet" href="/assets/pdf-effeb1f6266aa69a5cc3fb0de5617951.css">
 
-
-
-  <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-  <link rel="stylesheet" href="index.css">
 </head>
-<body>
+<body
+   class="is-embedded "
+   data-render-url="https://render.githubusercontent.com"
+   data-github-hostname="github.com"
+>
+  <div class="render-shell js-render-shell" >
+    
+<div class="pdf-container"
+  data-file="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/29374661ab060812c6f0050d08991cf59992bb96/Spider-Verse%20PDF%20(1).pdf"
+  data-worker="/assets/pdf/worker-de03a6262fe73d7da5661d85cbb46962.js"
+  data-bcmap-dir="https://render.githubusercontent.com/pdf/"
+>
+</div>
 
-<viewer-pdf-toolbar id="toolbar" hidden></viewer-pdf-toolbar>
+<div id="js-click-for-more" class="click-for-more">
+  <button class="button">More Pages</button>
+  <div class="spinner"><img src="../pdf/spinner.gif" alt="Loading more pages"/></div>
+</div>
 
-<div id="sizer"></div>
-<viewer-password-screen id="password-screen"></viewer-password-screen>
+  </div>
 
-<viewer-zoom-toolbar id="zoom-toolbar"></viewer-zoom-toolbar>
-
-<viewer-page-indicator id="page-indicator"></viewer-page-indicator>
-
-<viewer-error-screen id="error-screen"></viewer-error-screen>
-
-<div id="content"></div>
+  
 
 </body>
-<script src="pdf_fitting_type.js"></script>
-<script src="toolbar_manager.js"></script>
-<script src="viewport.js"></script>
-<script src="open_pdf_params_parser.js"></script>
-<script src="navigator.js"></script>
-<script src="viewport_scroller.js"></script>
-<script src="zoom_manager.js"></script>
-<script src="gesture_detector.js"></script>
-<script src="pdf_scripting_api.js"></script>
-<script src="chrome://resources/js/assert.js"></script>
-<script src="chrome://resources/js/load_time_data.js"></script>
-<script src="chrome://resources/js/util.js"></script>
-<script src="chrome://resources/js/promise_resolver.js"></script>
-<script src="browser_api.js"></script>
-<script src="metrics.js"></script>
-<script src="pdf_viewer.js"></script>
-<script src="main.js"></script>
 </html>
-
