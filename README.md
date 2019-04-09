@@ -37,7 +37,6 @@
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
    <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
-<iframe class="render-viewer " src="https://render.githubusercontent.com/view/pdf?commit=06a0deda7c3e6ee9fb59974c69e478c74332503d&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f426572656e6963652d4176616c6f732f41525453592d414741494e2f303661306465646137633365366565396662353939373463363965343738633734333332353033642f5370696465722532304d616e2532302532302831292e706466&amp;nwo=Berenice-Avalos%2FARTSY-AGAIN&amp;path=Spider+Man++%281%29.pdf&amp;repository_id=147434363&amp;repository_type=Repository#f76977b6-d4eb-468e-ab31-137351acca7d" sandbox="allow-scripts allow-same-origin allow-top-navigation " title="File display">
-          Viewer requires iframe.
+<iframe class="<embed id="plugin" type="application/x-google-chrome-pdf" src="file:///C:/Users/Berenice/Downloads/Spider%20Man%20%20(1).pdf" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/b9c5264e-2f3c-4cbf-9f94-0e1e3e08c2a7" headers="" background-color="0xFF525659" top-toolbar-height="56" javascript="allow" full-frame="">
       </iframe>
    
