@@ -37,5 +37,5 @@
    <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
-   <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
+   <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/93830e4167a11483f252ab52a282d52dbe92109b/Spider%20Man%20%20(1).pdf" target ="_blank">Computer Science Project</a> </p>
  <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/f4223026c4acd3607994c54a56d870ccf9786e6b/Spider-Verse%20PDF%20(1).pdf" target ="_blank">Computer Science Project 2</a> </p>
