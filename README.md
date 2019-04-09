@@ -101,7 +101,8 @@ body {font-family: Arial;}
 <div id="Computer Science Project 1" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3>Computer Science Project 1</h3>
-  <p>London is the capital city of England.</p>
+  <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/a574ed88168ebfd8d444011b6deb054c7635ffa1/Written%20Questions%2C%20Section%202.pdf" target ="_blank">Written Response</a></p>
+   <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/a574ed88168ebfd8d444011b6deb054c7635ffa1/Program%20Code%2C%20Section%203.pdf" target ="_blank">Program Code</a></p>
 </div>
 
 <div id="Computer Science Project 2" class="tabcontent">
