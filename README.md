@@ -37,6 +37,7 @@
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
    <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+<div id="content"></div>
+<a> embed id="plugin" type="application/x-google-chrome-pdf" src="file:///C:/Users/Berenice/Downloads/Spider%20Man%20%20(1).pdf" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/b9c5264e-2f3c-4cbf-9f94-0e1e3e08c2a7" headers="" background-color="0xFF525659" top-toolbar-height="56" javascript="allow" full-frame>Spider-Verse
 
    
