@@ -37,5 +37,7 @@
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
    <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
-    <a href="images/Spider-Verse.pdf" target ="_blank">Computer Science Project 2</a>
+<iframe class="render-viewer " src="https://render.githubusercontent.com/view/pdf?commit=06a0deda7c3e6ee9fb59974c69e478c74332503d&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f426572656e6963652d4176616c6f732f41525453592d414741494e2f303661306465646137633365366565396662353939373463363965343738633734333332353033642f5370696465722532304d616e2532302532302831292e706466&amp;nwo=Berenice-Avalos%2FARTSY-AGAIN&amp;path=Spider+Man++%281%29.pdf&amp;repository_id=147434363&amp;repository_type=Repository#f76977b6-d4eb-468e-ab31-137351acca7d" sandbox="allow-scripts allow-same-origin allow-top-navigation " title="File display">
+          Viewer requires iframe.
+      </iframe>
    
