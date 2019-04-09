@@ -41,4 +41,4 @@
 <html dir="ltr" lang="en"><head>
 
 <div id="content"></div>
-   <a> <img class="plugin" src="file:///C:/Users/Berenice/Downloads/Spider%20Man%20%20(1).pdf" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/b9c5264e-2f3c-4cbf-9f94-0e1e3e08c2a7">Spider-Verse
+   <a> <img class="plugin" src="file:///C:/Users/Berenice/Downloads/Spider%20Man%20%20(1).pdf">Spider-Verse
