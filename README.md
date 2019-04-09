@@ -96,19 +96,19 @@ body {font-family: Arial;}
 <p>Click on the x button in the top right corner to close the current tab:</p>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Computer Science Project 1')" id="defaultOpen">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Computer Science Project 2')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Computer Science Project 1')" id="defaultOpen">Computer Science Project 1</button>
+  <button class="tablinks" onclick="openCity(event, 'Computer Science Project 2')">Computer Science Project 2</button>
 </div>
 
 <div id="Computer Science Project 1" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <h3>London</h3>
+  <h3>Computer Science Project 1</h3>
   <p>London is the capital city of England.</p>
 </div>
 
 <div id="Compter Science Project 2" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <h3>Paris</h3>
+  <h3>Compter Science Project 2"</h3>
   <p>Paris is the capital of France.</p> 
 </div>
 
