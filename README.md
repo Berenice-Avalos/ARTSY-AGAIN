@@ -38,36 +38,4 @@
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
    <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Render</title>
-  <meta name="referrer" content="never">
-    <script src="/assets/pdf-effea309c8062425128dcb7301755141.js"></script><link rel="stylesheet" href="/assets/pdf-effeb1f6266aa69a5cc3fb0de5617951.css">
-
-</head>
-<body
-   class="is-embedded "
-   data-render-url="https://render.githubusercontent.com"
-   data-github-hostname="github.com"
->
-  <div class="render-shell js-render-shell" >
-    
-<div class="pdf-container"
-  data-file="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/29374661ab060812c6f0050d08991cf59992bb96/Spider-Verse%20PDF%20(1).pdf"
-  data-worker="/assets/pdf/worker-de03a6262fe73d7da5661d85cbb46962.js"
-  data-bcmap-dir="https://render.githubusercontent.com/pdf/"
->
-</div>
-
-<div id="js-click-for-more" class="click-for-more">
-  <button class="button">More Pages</button>
-  <div class="spinner"><img src="../pdf/spinner.gif" alt="Loading more pages"/></div>
-</div>
-
-  </div>
-
-  
-
-</body>
-</html>
+ <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/f4223026c4acd3607994c54a56d870ccf9786e6b/Spider-Verse%20PDF%20(1).pdf" target ="_blank">Computer Science Project 2</a> </p>
