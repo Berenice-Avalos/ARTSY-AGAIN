@@ -38,6 +38,6 @@
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story
    <p> <a href="images/Spider-Man.pdf" target ="_blank">Computer Science Project</a> </p>
 <div id="content"></div>
-<a> <embed id="plugin" src="file:///C:/Users/Berenice/Downloads/Spider%20Man%20%20(1).pdf" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/b9c5264e-2f3c-4cbf-9f94-0e1e3e08c2a7">Spider-Verse
+   <a> <embed id="plugin" src="file:///C:/Users/Berenice/Downloads/Spider%20Man%20%20(1).pdf" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/b9c5264e-2f3c-4cbf-9f94-0e1e3e08c2a7">Spider-Verse
 
    
