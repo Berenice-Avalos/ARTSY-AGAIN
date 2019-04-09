@@ -106,7 +106,7 @@ body {font-family: Arial;}
   <p>London is the capital city of England.</p>
 </div>
 
-<div id="Compter Science Project 2" class="tabcontent">
+<div id="Computer Science Project 2" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3>Compter Science Project 2"</h3>
   <p>Paris is the capital of France.</p> 
