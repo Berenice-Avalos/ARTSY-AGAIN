@@ -33,8 +33,6 @@
 
 
 <div class="topnav"></div>
-   <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
-   <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story</a><p>
 
@@ -45,6 +43,7 @@
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Computer Science Project 1')" id="defaultOpen">Computer Science Project 1</button>
   <button class="tablinks" onclick="openCity(event, 'Computer Science Project 2')">Computer Science Project 2</button>
+  <button class="tablinks" onclick="openCity(event, 'Websites')">Websites</button>
 </div>
 
 <div id="Computer Science Project 1" class="tabcontent">
@@ -59,6 +58,13 @@
   <h3>Computer Science Project 2</h3>
   <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/93830e4167a11483f252ab52a282d52dbe92109b/Spider%20Man%20%20(1).pdf" target ="_blank">Google Drawing Artifact</a> </p>
   <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/f4223026c4acd3607994c54a56d870ccf9786e6b/Spider-Verse%20PDF%20(1).pdf" target ="_blank">Artifact Written Response</a> </p>
+</div>
+
+<div id="Websites" class="tabcontent">
+  <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
+  <h3>Websites/h3>
+ <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
+   <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
 </div>
 
 
