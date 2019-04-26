@@ -58,7 +58,6 @@
   <h3>Computer Science Project 2</h3>
   <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/93830e4167a11483f252ab52a282d52dbe92109b/Spider%20Man%20%20(1).pdf" target ="_blank">Google Drawing Artifact</a> </p>
   <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/f4223026c4acd3607994c54a56d870ccf9786e6b/Spider-Verse%20PDF%20(1).pdf" target ="_blank">Artifact Written Response</a> </p>
-</div>
 
 <div id="Websites" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
