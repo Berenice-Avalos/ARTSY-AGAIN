@@ -61,12 +61,6 @@
   <p> <a href="https://raw.githubusercontent.com/Berenice-Avalos/ARTSY-AGAIN/f4223026c4acd3607994c54a56d870ccf9786e6b/Spider-Verse%20PDF%20(1).pdf" target ="_blank">Artifact Written Response</a> </p>
 </div>
 
-<div id="Websites" class="tabcontent">
-  <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
-  <h3>Webistes</h3>
-   <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> 
-   <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
-</div>
 
 <script>
 function openCity(evt, cityName) {
