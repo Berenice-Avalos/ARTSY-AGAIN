@@ -62,8 +62,8 @@
 <div id="Websites" class="tabcontent">
   <span onclick="this.parentElement.style.display='none'" class="topright">x</span>
   <h3>Websites</h3>
-  <p> <a href="https://berenice-avalos.github.io/CrazyFantasy/">CrazyFantasy</a> </p> 
-  <p> <a href="https://berenice-avalos.github.io/CyberPunk/">CyberPunk</a></p>
+  <p> <a href="https://berenice-avalos.github.io/CrazyFantacy">CrazyFantasy</a> </p> 
+  <p> <a href="https://berenice-avalos.github.io/CyberPunk">CyberPunk</a></p>
 
 
 <script>
