@@ -38,10 +38,6 @@
    <a href="https://scratch.mit.edu/projects/248604315/" target ="_blank">Galaxy Breakout 2.0</a>
    <p> <a href="https://repl.it/@berenicecode/UnequaledChartreuseBackend/">Python Interactive Story</a><p>
 
-
-<h2>Tabs</h2>
-<p>Click on the x button in the top right corner to close the current tab:</p>
-
 <h2>Tabs</h2>
 <p>Click on the x button in the top right corner to close the current tab:</p>
 
